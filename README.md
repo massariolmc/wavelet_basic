@@ -6,7 +6,7 @@ Will be want install some packges:
 
 #python -m pip install --upgrade pip
 #pip install pandas
-#pip install xlrd -> é uma extensão do pandas para ler xlsx
+#pip install xlrd
 #pip install openpyxl
 #pip install matplotlib
 #pip install PyWavelets
